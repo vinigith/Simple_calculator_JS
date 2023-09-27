@@ -1,0 +1,3 @@
+# Simple_calculator_JS
+Create a user-friendly web calculator that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. This calculator will have a clean and responsive user interface that adapts to different screen sizes. Users can click on buttons or use their keyboard for input.
+<p>Create a user-friendly web calculator that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. This calculator will have a clean and responsive user interface that adapts to different screen sizes. Users can click on buttons or use their keyboard for input.</p>
